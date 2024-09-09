@@ -4,4 +4,8 @@
     <TargetFramework>net4.7</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BookWaves.Common\BookWaves.Common.csproj" />
+  </ItemGroup>
+
 </Project>
